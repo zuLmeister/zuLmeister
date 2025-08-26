@@ -8,11 +8,11 @@ Always learning, always adapting, even when one button just won’t center or th
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript       14 hrs 12 mins  ███████████████░░░░░░░░░░   59.64 %
-CSS              5 hrs 21 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.53 %
-PHP              2 hrs 58 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-Bash             59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Other            11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JavaScript       14 hrs 16 mins  ██████████████▒░░░░░░░░░░   56.71 %
+CSS              6 hrs 38 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
+PHP              3 hrs           ███░░░░░░░░░░░░░░░░░░░░░░   11.94 %
+Bash             59 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 %
+Other            10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
