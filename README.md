@@ -15,6 +15,7 @@ HTML             12 mins         ▒░░░░░░░░░░░░░░�
 Blade Template   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zulmelster/48192704-733e-4a28-9a46-77dbf51fc99d.png" /></a>
 <!--END_SECTION:waka-->
 
 ---
