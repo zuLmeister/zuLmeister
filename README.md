@@ -8,13 +8,13 @@ Always learning, always adapting, even when one button just won’t center or th
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              18 hrs 57 mins  ████████████████▒░░░░░░░░   65.14 %
-JavaScript       8 hrs 44 mins   ███████▓░░░░░░░░░░░░░░░░░   30.05 %
-Bash             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
-HTML             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Other            11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+PHP              16 hrs 49 mins  ██████████████▒░░░░░░░░░░   57.00 %
+JavaScript       10 hrs 6 mins   ████████▓░░░░░░░░░░░░░░░░   34.23 %
+Vue.js           42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+Python           39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Bash             23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
-<figure><embed src="https://wakatime.com/share/@zulmelster/055d0fae-27d5-4652-b85d-fe993d128f61.svg"></embed></figure>
+
 <!--END_SECTION:waka-->
 
 ---
