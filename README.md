@@ -1,8 +1,24 @@
-# Hi there 👋, I'm zuLmeister
+# Hi there 👋, I'm **zuLmeister**
 
-I started out teaching computers how to read human emotions , my thesis turned them into overthinking psychologists using CNN and Haar Cascade.
-But life said: “Cool AI stuff, now go get a job.” So I jumped into Full Stack Web Development. .
-Always learning, always adapting, even when one button just won’t center or the API Fetch won't working.
+I started out teaching computers how to read human emotions — my thesis turned them into overthinking psychologists using CNN and Haar Cascade.
+
+Now I craft clean, efficient, full-stack solutions.  
+Always learning, always adapting — even when one button refuses to center.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zuLmeister&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zuLmeister&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
@@ -13,9 +29,4 @@ PHP              7 hrs 27 mins   ██████▒░░░░░░░░�
 JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-```
-
 <!--END_SECTION:waka-->
-
----
-*Updated automatically using [WakaTime](https://wakatime.com/) & GitHub Actions*
