@@ -1,21 +1,18 @@
 # Hi there 👋, I'm **zuLmeister**
 
-I started out teaching computers how to read human emotions — my thesis turned them into overthinking psychologists using CNN and Haar Cascade.
-
-Now I craft clean, efficient, full-stack solutions.  
-Always learning, always adapting — even when one button refuses to center.
+I started out teaching computers how to read human emotions — my thesis turned them into overthinking psychologists using CNN and Haar Cascade.  
+Now I craft clean, efficient full-stack solutions. Always learning, always adapting — even when one button refuses to center.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Coding Overview
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zuLmeister&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&layout=compact&hide_border=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zuLmeister&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zuLmeister&show_icons=true&hide_border=true&count_private=true&theme=tokyonight&include_all_commits=true" height="120" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&layout=compact&hide_border=true&theme=tokyonight" height="120" />
+  &nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=zuLmeister&theme=tokyonight&hide_border=true" height="120" />
 </p>
 
 ---
