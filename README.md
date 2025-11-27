@@ -1,9 +1,9 @@
 # Hi there 👋, I'm **zuLmeister**
 
-I started out teaching computers how to read human emotions — my thesis accidentally turned them into overthinking psychologists using **CNN** and **Haar Cascade**.  
+I started out teaching computers how to read human emotions , my thesis accidentally turned them into overthinking psychologists using **CNN** and **Haar Cascade**.  
 But life said: “Cool AI stuff, now go get a job.” So I jumped into **Full Stack Web Development** and never looked back.
 
-Always learning, always adapting — even when one button just won’t center or the API fetch keeps returning 404.
+Always learning, always adapting even when one button just won’t center or the API fetch keeps returning 404.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-portofolio--zul.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://portofolio-zul.vercel.app/)
 
