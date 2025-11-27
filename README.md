@@ -1,44 +1,18 @@
-<h2 align="left">My name is Zulfikar Ahmad Komari and I'm a Full Stack Developer</h2>
+# Hi there 👋, I'm **zuLmeister**
 
-###
+I started out teaching computers how to read human emotions , my thesis turned them into overthinking psychologists using CNN and Haar Cascade.
+But life said: “Cool AI stuff, now go get a job.” So I jumped into Full Stack Web Development. .
+Always learning, always adapting, even when one button just won’t center or the API Fetch won't working.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuLmeister&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuLmeister&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+---
 
-###
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="30" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/adonisjs/adonisjs-original.svg" height="30" alt="adonisjs logo"  />
-</div>
+## ⏳ Weekly Coding Stats
+<!--START_SECTION:waka-->
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/zulwasright/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zuLmeister/zuLmeister/output/snake.svg" alt="Snake animation" />
-
-###
+```txt
+JavaScript       18 hrs 47 mins  ████████████████▒░░░░░░░░   65.32 %
+PHP              7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
