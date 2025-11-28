@@ -1,6 +1,6 @@
-## Hi there! 👋
+## Hi there! I'm **zuLmeister**
 
-I'm **zuLmeister**, a passionate software developer with a knack for creating efficient and scalable applications. I love exploring new technologies and constantly seek to improve my skills in programming and development.
+https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg
 
 ## About Me
 
