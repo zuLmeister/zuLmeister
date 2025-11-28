@@ -12,8 +12,7 @@ Prisma           21 mins         ▒░░░░░░░░░░░░░░�
 ```
 
 ## Weekly Chart Stats
-<figure><embed src="https://wakatime.com/share/@zulmelster/7e10f97a-5e8f-4fee-a709-9e70ce6a67ad.svg"></embed></figure>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" /></a>
 
 ## About Me
 
