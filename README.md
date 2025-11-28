@@ -1,4 +1,4 @@
-## Hi there! I'm **zuLmeister**
+## Hi there! I'm **zuLmeister** <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
@@ -9,9 +9,7 @@ PHP              7 hrs 27 mins   ██████▒░░░░░░░░�
 JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
 Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
-
 ```
-<a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
 
 ## About Me
