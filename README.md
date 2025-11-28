@@ -16,8 +16,7 @@ Currently, these are my 2 portofolio with creative and formal design
 
 ```bash
 Formal    : https://portofoliozul-svhu.vercel.app/
-```
-```bash
+
 Creative : https://portofolio-zul.vercel.app/ 
 ```
 
@@ -31,6 +30,5 @@ JSON             54 mins         ▓░░░░░░░░░░░░░░�
 Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
 Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 
-<!--END_SECTION:waka-->
 
 
