@@ -14,11 +14,9 @@ I am a dedicated developer with experience in various programming languages and 
 
 Currently, these are my 2 portofolio with creative and formal design
 
-```bash
 Formal    : https://portofoliozul-svhu.vercel.app/
 
 Creative : https://portofolio-zul.vercel.app/ 
-```
 
 ## ⏳ Weekly Coding Stats
 <!--START_SECTION:waka-->
