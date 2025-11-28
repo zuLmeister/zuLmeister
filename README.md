@@ -11,6 +11,8 @@ Bash             51 mins         ▓░░░░░░░░░░░░░░�
 Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
+<figure><embed src="https://wakatime.com/share/@zulmelster/7e10f97a-5e8f-4fee-a709-9e70ce6a67ad.svg"></embed></figure>
+
 
 ## About Me
 
