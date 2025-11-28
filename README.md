@@ -1,6 +1,8 @@
 ## Hi there! I'm **zuLmeister** <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
 ## ⏳ Weekly Coding Stats
+<figure><embed src="https://wakatime.com/share/@zulmelster/7e10f97a-5e8f-4fee-a709-9e70ce6a67ad.svg"></embed></figure>
+
 <!--START_SECTION:waka-->
 
 ```txt
@@ -11,7 +13,6 @@ Bash             51 mins         ▓░░░░░░░░░░░░░░�
 Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
-<figure><embed src="https://wakatime.com/share/@zulmelster/7e10f97a-5e8f-4fee-a709-9e70ce6a67ad.svg"></embed></figure>
 
 
 ## About Me
