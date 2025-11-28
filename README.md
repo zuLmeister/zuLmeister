@@ -1,6 +1,18 @@
 ## Hi there! I'm **zuLmeister**
 
-https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg
+## ⏳ Weekly Coding Stats
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript       18 hrs 47 mins  ████████████████▒░░░░░░░░   65.32 %
+PHP              7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+
+```
+<a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
+
 
 ## About Me
 
@@ -17,16 +29,6 @@ Currently, these are my 2 portofolio with creative and formal design
 Formal    : https://portofoliozul-svhu.vercel.app/
 
 Creative : https://portofolio-zul.vercel.app/ 
-
-## ⏳ Weekly Coding Stats
-<!--START_SECTION:waka-->
-
-```txt
-JavaScript       18 hrs 47 mins  ████████████████▒░░░░░░░░   65.32 %
-PHP              7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 
 
 
