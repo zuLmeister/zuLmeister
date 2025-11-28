@@ -14,9 +14,23 @@ I am a dedicated developer with experience in various programming languages and 
 
 Currently, these are my 2 portofolio with creative and formal design
 
+```bash
 Formal    : https://portofoliozul-svhu.vercel.app/
+```
+```bash
 Creative : https://portofolio-zul.vercel.app/ 
+```
 
-## Connect with Me
+## ⏳ Weekly Coding Stats
+<!--START_SECTION:waka-->
 
-{}
+```txt
+JavaScript       18 hrs 47 mins  ████████████████▒░░░░░░░░   65.32 %
+PHP              7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
+JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
+Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+
+<!--END_SECTION:waka-->
+
+
