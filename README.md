@@ -8,7 +8,7 @@ I am a dedicated developer with experience in various programming languages and 
 
 ## Skills & Technologies
 
-go,html,css,php,react,tailwind,docker,git,mysql,postgres,fastapi,flutter,vite,js,ts,bootstrap,gitlab,github
+[![My Skills](https://skillicons.dev/icons?i=go,html,css,php,react,tailwind,docker,git,mysql,postgres,fastapi,flutter,vite,js,ts,bootstrap,gitlab,github&perline=8)](https://skillicons.dev)
 
 ## Latest Portofolio
 
