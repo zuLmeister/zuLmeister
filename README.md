@@ -1,19 +1,22 @@
-# Hi there 👋, I'm **zuLmeister**
+## Hi there! 👋
 
-I started out teaching computers how to read human emotions , my thesis turned them into overthinking psychologists using CNN and Haar Cascade.
-But life said: “Cool AI stuff, now go get a job.” So I jumped into Full Stack Web Development. .
-Always learning, always adapting, even when one button just won’t center or the API Fetch won't working.
+I'm **zuLmeister**, a passionate software developer with a knack for creating efficient and scalable applications. I love exploring new technologies and constantly seek to improve my skills in programming and development.
 
----
+## About Me
 
+I am a dedicated developer with experience in various programming languages and frameworks. Currently, I'm available for hire and excited to take on new challenges. While I don't have any specific location listed, I'm open to remote opportunities and collaborations. Let's build something amazing together!
 
-## ⏳ Weekly Coding Stats
-<!--START_SECTION:waka-->
+## Skills & Technologies
 
-```txt
-JavaScript       18 hrs 47 mins  ████████████████▒░░░░░░░░   65.32 %
-PHP              7 hrs 27 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.92 %
-JSON             54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.15 %
-Bash             51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
-Prisma           21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+go,html,css,php,react,tailwind,docker,git,mysql,postgres,fastapi,flutter,vite,js,ts,bootstrap,gitlab,github
 
+## Latest Portofolio
+
+Currently, these are my 2 portofolio with creative and formal design
+
+Formal    : https://portofoliozul-svhu.vercel.app/
+Creative : https://portofolio-zul.vercel.app/ 
+
+## Connect with Me
+
+{}
