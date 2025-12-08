@@ -18,7 +18,6 @@ I am a dedicated developer with experience in various programming languages and 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@zulwasright) 
-Formal    : https://portofoliozul-svhu.vercel.app/
-
-Creative : https://portofolio-zul.vercel.app/ 
+[![Formal Portfolio](https://img.shields.io/badge/Formal%20Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portofoliozul-svhu.vercel.app/)
+[![Creative Portfolio](https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-zul.vercel.app/)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
