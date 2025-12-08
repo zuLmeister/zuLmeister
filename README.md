@@ -29,18 +29,21 @@ Let’s build something amazing together 🚀
 ---
 
 ## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
 <table>
   <tr>
     <td>
-     ![](https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+      <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false"/>
     </td>
     <td>
-      <img src="https://media.tenor.com/images/bb7ddd2554df328f6771861cf7c1872e/tenor.gif" width="260px"/>
+      <img src="https://media.tenor.com/images/bb7ddd2554df328f6771861cf7c1872e/tenor.gif" width="200px"/>
     </td>
   </tr>
 </table>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
 ## 🏆 GitHub Trophies
