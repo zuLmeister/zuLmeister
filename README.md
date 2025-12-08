@@ -1,7 +1,5 @@
 <div align="center">
   
-![Tom & Jerry Laugh](https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif)
-
 # 💫 About Me
 I am a dedicated developer with experience in various programming languages and frameworks.  
 Available for hire — open to remote opportunities and exciting collaborations!  
