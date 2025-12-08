@@ -1,16 +1,11 @@
-<div align="center">
-  
-# 💫 About Me
+  # 💫 About Me
 I am a dedicated developer with experience in various programming languages and frameworks.  
 Available for hire — open to remote opportunities and exciting collaborations!  
 Let’s build something amazing together 🚀
 
 ---
 
-## ⏱️ Weekly Chart Stats
-<a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87">
-  <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" />
-</a>
+## ⏱️ Weekly Chart Stats <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" />
 
 <img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" />
 
