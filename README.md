@@ -1,8 +1,8 @@
 # 💫 About Me:
 I am a dedicated developer with experience in various programming languages and frameworks. Currently, I'm available for hire and excited to take on new challenges. While I don't have any specific location listed, I'm open to remote opportunities and collaborations. Let's build something amazing together!
 
-## Weekly Chart Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" /></a>
+<img src="https://raw.githubusercontent.com/zuLmeister/zuLmeister/output/snake.svg" alt="Snake animation" />
+###
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=go,html,css,react,tailwind,docker,git,mysql,postgres,flutter,vite,js,ts,bootstrap&perline=8)](https://skillicons.dev)
