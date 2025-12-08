@@ -1,23 +1,23 @@
-## Hi there! I'm **zuLmeister** 
+# 💫 About Me:
+I am a dedicated developer with experience in various programming languages and frameworks. Currently, I'm available for hire and excited to take on new challenges. While I don't have any specific location listed, I'm open to remote opportunities and collaborations. Let's build something amazing together!
 
 ## Weekly Chart Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" /></a>
 
-## About Me
+# 💻 Tech Stack:
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![AdonisJS](https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-I am a dedicated developer with experience in various programming languages and frameworks. Currently, I'm available for hire and excited to take on new challenges. While I don't have any specific location listed, I'm open to remote opportunities and collaborations. Let's build something amazing together!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=zuLmeister&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## Skills & Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=go,html,css,react,tailwind,docker,git,mysql,postgres,flutter,vite,js,ts,bootstrap&perline=8)](https://skillicons.dev)
-
-## Latest Portofolio
-
-Currently, these are my 2 portofolio with creative and formal design
-
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@zulwasright) 
 Formal    : https://portofoliozul-svhu.vercel.app/
 
 Creative : https://portofolio-zul.vercel.app/ 
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
