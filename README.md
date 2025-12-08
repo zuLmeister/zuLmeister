@@ -5,9 +5,9 @@ Let’s build something amazing together 🚀
 
 ---
 
-## ⏱️ Weekly Chart Stats <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" />
+## ⏱️ Weekly Chart Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
-<img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" />
+<img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" width="200px" />
 
 ---
 
@@ -29,10 +29,18 @@ Let’s build something amazing together 🚀
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true)\
-![](https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false)\
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+    </td>
+    <td>
+      <img src="https://media.tenor.com/images/bb7ddd2554df328f6771861cf7c1872e/tenor.gif" width="200px"/>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🏆 GitHub Trophies
