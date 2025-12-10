@@ -8,6 +8,7 @@ Let’s build something amazing together 🚀
 ## ⏱ Weekly Chart Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
 <img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" width="450px" />
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@zulmelster/09bc19c9-a2ee-468c-862e-f447a79cd75d.png" width="450px"/></a>
 
 ---
 
