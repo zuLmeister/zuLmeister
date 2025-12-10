@@ -79,6 +79,16 @@ Let’s build something amazing together 🚀
 
 
 ## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@zulwasright) 
-[![Formal Portfolio](https://img.shields.io/badge/Formal%20Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portofoliozul-svhu.vercel.app/)
-[![Creative Portfolio](https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://portofolio-zul.vercel.app/)
+<div style="text-align:left;">
+  <a href="https://linkedin.com/in/@zulwasright">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://portofoliozul-svhu.vercel.app/">
+    <img src="https://img.shields.io/badge/Formal%20Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <br><br>
+  <a href="https://portofolio-zul.vercel.app/">
+    <img src="https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
