@@ -19,16 +19,40 @@ Let’s build something amazing together 🚀
 
 ## 💻 Tech Stack 
 
-<table> 
+<table>
   <tr>
-    <td> 
-      <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,adonisjs,nextjs,vite,laravel,codeigniter,go,docker,flutter&perline=20" 
-      </p> 
-    </td> 
-    <td> 
+    <td>
+      <table>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=html" /></td>
+          <td><img src="https://skillicons.dev/icons?i=css" /></td>
+          <td><img src="https://skillicons.dev/icons?i=js" /></td>
+          <td><img src="https://skillicons.dev/icons?i=ts" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=react" /></td>
+          <td><img src="https://skillicons.dev/icons?i=nodejs" /></td>
+          <td><img src="https://skillicons.dev/icons?i=express" /></td>
+          <td><img src="https://skillicons.dev/icons?i=nestjs" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=adonisjs" /></td>
+          <td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
+          <td><img src="https://skillicons.dev/icons?i=vite" /></td>
+          <td><img src="https://skillicons.dev/icons?i=laravel" /></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=codeigniter" /></td>
+          <td><img src="https://skillicons.dev/icons?i=go" /></td>
+          <td><img src="https://skillicons.dev/icons?i=docker" /></td>
+          <td><img src="https://skillicons.dev/icons?i=flutter" /></td>
+        </tr>
+      </table>
+    </td>
+    <td>
       <img src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" width="260px" />
-    </td> 
-  </tr> 
+    </td>
+  </tr>
 </table>
 
 ---
