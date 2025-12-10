@@ -9,7 +9,7 @@ Let’s build something amazing together 🚀
 
 <div style="display:flex; gap:10px;">
   <img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" width="45%" />
-  <img src="https://wakatime.com/share/@zulmelster/09bc19c9-a2ee-468c-862e-f447a79cd75d.png" width="45%" />
+  <img src="https://wakatime.com/share/@zulmelster/09bc19c9-a2ee-468c-862e-f447a79cd75d.png" width="100%" />
 </div>
 
 
