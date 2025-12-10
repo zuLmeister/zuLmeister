@@ -23,7 +23,7 @@ Let’s build something amazing together 🚀
 <table> 
   <tr>
     <td> 
-      <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,laravel,adonis,nestjs,nodejs,codeigniter,go,docker,nginx,flutter&perline=20" 
+      <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,adonisjs,nextjs,vite,laravel,codeigniter,go,docker,flutter&perline=20" 
       </p> 
     </td> 
     <td> 
