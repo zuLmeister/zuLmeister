@@ -21,7 +21,7 @@ Let’s build something amazing together 🚀
 
 <table>
   <tr>
-    <td valign="top">
+    <td>
       <table>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=html" /></td>
@@ -49,14 +49,12 @@ Let’s build something amazing together 🚀
         </tr>
       </table>
     </td>
-     <td valign="top" align="center" style="padding: 0 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true" />
-    </td>
-     <td valign="top">
+    <td>
       <img src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" width="260px" />
     </td>
   </tr>
 </table>
+
 
 
 
