@@ -19,7 +19,7 @@ Let’s build something amazing together 🚀
 
 ## 💻 Tech Stack 
 
-<table>
+<table align="center">  
   <tr>
     <td>
       <table>
@@ -64,7 +64,7 @@ Let’s build something amazing together 🚀
 
 ![](https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<table>
+<table align="center">  
   <tr>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false"/>
