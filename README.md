@@ -14,9 +14,6 @@ Let’s build something amazing together 🚀
   </div>
 </div>
 
-
-
-
 ---
 
 </div>
@@ -54,10 +51,6 @@ Let’s build something amazing together 🚀
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=zuLmeister&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@zulwasright) 
