@@ -18,23 +18,18 @@ Let’s build something amazing together 🚀
 
 </div>
 
-## 💻 Tech Stack
+## 💻 Tech Stack 
 
-<table align="center">
+<table> 
   <tr>
-    <td align="center">
-      <img 
-        src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,laravel,adonis,nestjs,nodejs,codeigniter,go,php,python,tensorflow,opencv,mysql,postgres,docker,nginx,linux,git,flutter,figma&perline=20" 
-      />
-    </td>
-
-    <td align="center">
-      <img 
-        src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" 
-        width="260px" 
-      />
-    </td>
-  </tr>
+    <td> 
+      <p align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,laravel,adonis,nestjs,nodejs,codeigniter,go,docker,nginx,flutter&perline=20" 
+      </p> 
+    </td> 
+    <td> 
+      <img src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" width="260px" />
+    </td> 
+  </tr> 
 </table>
 
 ---
