@@ -20,13 +20,19 @@ Let’s build something amazing together 🚀
 
 ## 💻 Tech Stack
 
-<table>
+<table align="center">
   <tr>
-    <td>
-      <img src="https://skillicons.dev/icons?i=go,html,css,react,tailwind,docker,git,mysql,postgres,flutter,vite,js,ts,bootstrap&perline=8" />
+    <td align="center">
+      <img 
+        src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,vite,laravel,adonis,nestjs,nodejs,codeigniter,go,php,python,tensorflow,opencv,mysql,postgres,docker,nginx,linux,git,flutter,figma&perline=20" 
+      />
     </td>
-    <td>
-      <img src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" width="260px" />
+
+    <td align="center">
+      <img 
+        src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" 
+        width="260px" 
+      />
     </td>
   </tr>
 </table>
