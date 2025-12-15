@@ -7,9 +7,8 @@ Let’s build something amazing together 🚀
 
 ## ⏱ Wakatime Chart Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
-<div style="text-align:center;">
-  <img src="https://wakatime.com/share/@zulmelster/d5bd41f8-4729-4f52-a1ef-e39626b3661d.png" width="45%" />
-</div>
+![](https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true)
+
 
 
 ---
@@ -72,11 +71,7 @@ Let’s build something amazing together 🚀
   </tr>
 </table>
 
-### 📈 Contribution Activity
-
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
-
-![](https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true)
 
 ---
 
