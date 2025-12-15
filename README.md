@@ -2,7 +2,7 @@
 I am a dedicated developer with experience in various programming languages and frameworks.
 
 **Available for hire - open to remote opportunities and exciting collaborations!**  
-If you're interested in working together or discussing opportunities, feel free to connect with me on [LinkedIn]([https://www.linkedin.com/in/zulwasright](https://www.linkedin.com/in/zulwasright/))
+If you're interested in working together or discussing opportunities, feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/zulwasright/))
 
 
 Let’s build something amazing together!
