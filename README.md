@@ -74,6 +74,10 @@ Let’s build something amazing together 🚀
   </tr>
 </table>
 
+### 📈 Contribution Activity
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
+
 ![](https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true)
 
 
