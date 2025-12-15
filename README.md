@@ -5,17 +5,9 @@ Let’s build something amazing together 🚀
 
 ---
 
-## ⏱ Wakatime Chart Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
+## ⏱ Techstacks & Wakatime Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
 
 ![](https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true)
-
-
-
----
-
-</div>
-
-## 💻 Tech Stack 
 
 <table align="center">  
   <tr>
@@ -52,9 +44,6 @@ Let’s build something amazing together 🚀
     </td>
   </tr>
 </table>
-
-
-
 
 ---
 
