@@ -61,12 +61,12 @@ Let’s build something amazing together 🚀
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats-zulmeister.vercel.app/api?username=zuLmeister&theme=dark&include_all_commits=true&count_private=true)
 
 <table align="center">  
   <tr>
     <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark&hide_border=false"/>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark"/>
     </td>
     <td>
       <img src="https://media.tenor.com/images/bb7ddd2554df328f6771861cf7c1872e/tenor.gif" width="200px"/>
@@ -74,8 +74,8 @@ Let’s build something amazing together 🚀
   </tr>
 </table>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
----
+![](https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true)
+
 
 
 ## 🌐 Socials
