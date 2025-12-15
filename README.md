@@ -20,10 +20,7 @@ Let’s build something amazing together 🚀
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
 
-## ⏱ Techstacks & Wakatime Stats 
-<a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87">
-  <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" />
-</a>
+## ⏱ Techstacks & Wakatime Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"> <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /> </a>
 
 <table align="center">
   <tr>
