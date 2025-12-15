@@ -5,13 +5,32 @@ Let’s build something amazing together 🚀
 
 ---
 
-## ⏱ Techstacks & Wakatime Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"><img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /></a>
+## 📊 GitHub Stats
 
-![](https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true)
-
-<table align="center">  
+<table align="center">
   <tr>
     <td>
+      <img src="https://github-readme-stats-zulmeister.vercel.app/api?username=zuLmeister&theme=dark&include_all_commits=true&count_private=true" />
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark" />
+    </td>
+  </tr>
+</table>
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
+
+## ⏱ Techstacks & Wakatime Stats 
+<a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87">
+  <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" />
+</a>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true" />
+    </td>
+    <td align="center">
       <table>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=html" /></td>
@@ -39,7 +58,7 @@ Let’s build something amazing together 🚀
         </tr>
       </table>
     </td>
-    <td>
+    <td align="center">
       <img src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" width="260px" />
     </td>
   </tr>
@@ -47,22 +66,8 @@ Let’s build something amazing together 🚀
 
 ---
 
-## 📊 GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-zulmeister.vercel.app/api?username=zuLmeister&theme=dark&include_all_commits=true&count_private=true" />
-    </td>
-    <td>
-      <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark" />
-    </td>
-  </tr>
-</table>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
-
----
 
 
 ## 🌐 Socials
