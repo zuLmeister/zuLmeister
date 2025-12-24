@@ -4,7 +4,7 @@ I am a dedicated developer with experience in various programming languages and 
 **Check out my portfolios:**  
 <div style="text-align:left;">
   <a href="https://portofolio-zul.vercel.app/">
-    <img src="https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+    <img src="https://img.shields.io/badge/%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </div>
 
@@ -53,7 +53,7 @@ Let’s build something amazing together!
           <td><img src="https://skillicons.dev/icons?i=nestjs" /></td>
         </tr>
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=adonisjs" /></td>
+          <td><img src="https://skillicons.dev/icons?i=vue" /></td>
           <td><img src="https://skillicons.dev/icons?i=nextjs" /></td>
           <td><img src="https://skillicons.dev/icons?i=vite" /></td>
           <td><img src="https://skillicons.dev/icons?i=laravel" /></td>
