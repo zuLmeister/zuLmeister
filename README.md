@@ -1,9 +1,15 @@
 # About Me
 I am a dedicated developer with experience in various programming languages and frameworks.
 
-**Available for hire - open to remote opportunities and exciting collaborations!**  
-If you're interested in working together or discussing opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zulwasright/)
+**Check out my portfolios:**  
+<div style="text-align:left;">
+  <a href="https://portofolio-zul.vercel.app/">
+    <img src="https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</div>
 
+**Available for hire** - open to remote opportunities and exciting collaborations!  
+If you're interested in working together or discussing opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zulwasright/)
 
 Let’s build something amazing together!
 ---
@@ -67,22 +73,3 @@ Let’s build something amazing together!
 </table>
 
 ---
-
-
-
-
-
-## Socials
-<div style="text-align:left;">
-  <a href="https://linkedin.com/in/@zulwasright">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="https://portofoliozul-svhu.vercel.app/">
-    <img src="https://img.shields.io/badge/Formal%20Portfolio-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <br><br>
-  <a href="https://portofolio-zul.vercel.app/">
-    <img src="https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
