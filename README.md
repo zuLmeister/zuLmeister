@@ -36,7 +36,7 @@ Let’s build something amazing together!
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats-zulmeister.vercel.app/api/top-langs/?username=zuLmeister&theme=dark&layout=compact&count_private=true" />
+      <figure><embed src="https://wakatime.com/share/@zulmelster/918fef1a-1ea2-42df-8fce-379012a15b51.svg"></embed></figure>
     </td>
     <td align="center">
       <table>
