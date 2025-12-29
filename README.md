@@ -36,7 +36,10 @@ Let’s build something amazing together!
 <table align="center">
   <tr>
     <td align="center">
-      <figure><embed src="https://wakatime.com/share/@zulmelster/918fef1a-1ea2-42df-8fce-379012a15b51.svg"></embed></figure>
+      <!-- Ganti embed dengan img supaya selalu tampil dan update -->
+      <figure>
+        <img src="https://wakatime.com/share/@zulmelster/918fef1a-1ea2-42df-8fce-379012a15b51.svg" alt="WakaTime Stats" width="7000">
+      </figure>
     </td>
     <td align="center">
       <table>
@@ -66,10 +69,8 @@ Let’s build something amazing together!
         </tr>
       </table>
     </td>
-    <td align="center">
-      <img src="https://c.tenor.com/-bsCMhP1RYQAAAAd/tom-and-jerry-laughing.gif" width="260px" />
-    </td>
   </tr>
 </table>
+
 
 ---
