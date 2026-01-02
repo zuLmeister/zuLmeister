@@ -1,4 +1,4 @@
-# About Me
+# About Me ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zuLmeister.zuLmeister)
 I am a dedicated developer with experience in various programming languages and frameworks.
 
 **Check out my portfolios:**  
@@ -12,7 +12,6 @@ I am a dedicated developer with experience in various programming languages and 
 If you're interested in working together or discussing opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zulahmadk/)
 
 Let’s build something amazing together!
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zuLmeister.zuLmeister)
 ---
 
 ---
