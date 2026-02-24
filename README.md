@@ -27,7 +27,7 @@ Let’s build something amazing together!
 <table align="center">
   <tr>
     <td>
-        <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Poppins&preferLogin=false">    <img  alt="zuLmeister's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zuLmeister?cardType=level-alternate&theme=tokyonight&fontFamily=Poppins&preferLogin=false" />  </a>
+       <img src="https://github-readme-stats-zulmeister.vercel.app/api?username=zuLmeister&theme=dark&include_all_commits=true&count_private=true" />
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=zuLmeister&theme=dark" />
