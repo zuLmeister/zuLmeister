@@ -39,7 +39,7 @@ Let’s build something amazing together!
   
 </table>
 
-![Stats](./profile/stats.svg)
+![Metrics](./github-metrics.svg)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
 
