@@ -36,7 +36,10 @@ Let’s build something amazing together!
       </a>
     </td>
   </tr>
+  
 </table>
+
+![Stats](./profile/stats.svg)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark)
 
