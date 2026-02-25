@@ -45,7 +45,7 @@ Let’s build something amazing together!
       <img src="./github-metrics.svg" width="400"/>
     </td>
     <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark" width="400"/>
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark" width="700"/>
     </td>
   </tr>
 </table>
