@@ -1,23 +1,38 @@
 # About Me ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zuLmeister.zuLmeister)
+<table>
+<tr>
+<td width="55%" valign="top">
+
 I am a dedicated developer with experience in various programming languages and frameworks.
 
+**Available for hire** – open to remote opportunities and exciting collaborations!  
+
+If you're interested in working together, feel free to connect with me on  
+[LinkedIn](https://www.linkedin.com/in/zulahmadk/)
+
+<br/>
+
 **Check out my portfolios:**  
-<div style="text-align:left;">
-  <a href="https://porto-zul-formal.vercel.app/">
-    <img src="https://img.shields.io/badge/%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
 
-<div style="text-align:left;">
-  <a href="https://portofolio-zul.vercel.app/">
-    <img src="https://img.shields.io/badge/%20Creative Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</div>
+<a href="https://porto-zul-formal.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-**Available for hire** - open to remote opportunities and exciting collaborations!  
-If you're interested in working together or discussing opportunities, feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/zulahmadk/)
+<a href="https://portofolio-zul.vercel.app/">
+  <img src="https://img.shields.io/badge/Creative%20Portfolio-FF0066.svg?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 
-Let’s build something amazing together!
+</td>
+
+<td width="45%" align="center">
+
+### Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nestjs,vue,nextjs,vite,laravel,codeigniter,go,docker,flutter" />
+
+</td>
+</tr>
+</table>
 ---
 
 ---
