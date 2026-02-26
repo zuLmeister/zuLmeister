@@ -24,31 +24,37 @@ Let’s build something amazing together!
 
 ## GitHub Stats
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark" width="800"/>
+</p>
+
+<br/>
+
+
 <table align="center">
   <tr>
     <td>
-       <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Poppins&preferLogin=false"> 
-         <img  alt="zuLmeister's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/zuLmeister?cardType=level-alternate&theme=tokyonight&fontFamily=Poppins&preferLogin=false" />  
-       </a>
+      <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=level-alternate&theme=tokyonight&fontFamily=Poppins&preferLogin=false"> 
+        <img alt="zuLmeister's GitHub Stats" 
+             src="https://awesome-github-stats.azurewebsites.net/user-stats/zuLmeister?cardType=level-alternate&theme=tokyonight&fontFamily=Poppins&preferLogin=false" />  
+      </a>
     </td>
     <td>
-      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zuLmeister&theme=tokyonight-duo&exclude_days=Sun" alt="GitHub Streak" />
+      <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=zuLmeister&theme=tokyonight-duo&exclude_days=Sun" 
+             alt="GitHub Streak" />
       </a>
     </td>
   </tr>
-  
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="./github-metrics.svg" width="400"/>
-    </td>
-    <td align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=zuLmeister&theme=github-dark" width="700"/>
-    </td>
-  </tr>
-</table>
+<br/>
+
+
+<p align="center">
+  <img src="./github-metrics.svg" width="500"/>
+</p>
 
 ## Techstacks & Wakatime Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"> <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /> </a>
 
