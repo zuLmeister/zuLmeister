@@ -1,5 +1,7 @@
 # About Me ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=zuLmeister.zuLmeister)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Condensed&pause=1000&color=FFFFFF&width=435&lines=Zulfikar+Ahmad+Komari+%7C+Full+Stack+Developer)](https://git.io/typing-svg)
+
 I am a dedicated developer with experience in various programming languages and frameworks.
 
 **Check out my portfolios:**  
