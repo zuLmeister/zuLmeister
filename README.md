@@ -52,11 +52,6 @@ Let’s build something amazing together!
 
 <br/>
 
-
-<p align="center">
-  <img src="./github-metrics.svg" width="500"/>
-</p>
-
 ## Techstacks & Wakatime Stats <a href="https://wakatime.com/@a976377c-adba-4a93-82de-585852f37e87"> <img src="https://wakatime.com/badge/user/a976377c-adba-4a93-82de-585852f37e87.svg" alt="Total time coded since Aug 5 2025" /> </a>
 
 <table align="center">
